@@ -1,8 +1,7 @@
 [![MasterHead](https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">Developer candidate living in Germany</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
-
+(img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emreeilhan&label=Profile%20views&color=0e75b6&style=flat" alt="emreeilhan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/eemre101" target="blank"><img src="https://img.shields.io/twitter/follow/eemre101?logo=twitter&style=for-the-badge" alt="eemre101" /></a> </p>
