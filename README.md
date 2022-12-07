@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">Developer candidate living in Germany</h3>
-img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emreeilhan&label=Profile%20views&color=0e75b6&style=flat" alt="emreeilhan" /> </p>
 
