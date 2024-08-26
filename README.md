@@ -1,20 +1,31 @@
-<h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+👋 Hi, I’m Emre Ilhan
 
-- 🌱 I’m currently learning **Swift**
+Welcome to my GitHub profile! I’m an iOS developer and aspiring Data Scientist with a passion for crafting seamless and interactive user experiences. My focus is on creating high-quality, easy-to-use libraries and tools that enhance the development process for others. Whether you’re here to explore my projects, contribute, or collaborate, I’m excited to connect with you.
 
-- 🤝 I’m looking for help with **Swift**
+🚀 My Projects
 
-- 📫 How to reach me **emreilhan@aol.com**
+HapticEase
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20835340/emreeilhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20835340/emreeilhan" height="30" width="40" /></a>
-</p>
+HapticEase is a lightweight Swift library that simplifies the integration of haptic feedback in SwiftUI applications. With a range of feedback types and customization options, HapticEase helps you deliver a richer tactile experience in your apps.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+📚 What I’m Learning
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreeilhan&show_icons=true&locale=en&layout=compact" alt="emreeilhan" /></p>
+I’m always eager to learn and grow as a developer. Here’s what I’m currently diving into:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emreeilhan&show_icons=true&locale=en" alt="emreeilhan" /></p>
+	•	Swift & SwiftUI: Continuously improving my skills in iOS development.
+	•	Machine Learning: Exploring the world of AI and data science with Python.
+	•	Languages: Working on mastering German (Deutsch) and English (İngilizce) to reach C1 level proficiency.
+
+🌍 Let’s Connect
+
+	•	Twitter: @emreei0
+	•	Email: emreilhan@aol.com
+
+I’m always open to discussing new ideas, collaborations, and opportunities. Feel free to reach out!
+
+🛠️ Skills & Tools
+
+	•	Languages: Swift, Python, Java
+	•	Frameworks: SwiftUI, SwiftData, Firebase
+	•	Tools: Xcode, Git, GitHub
+	•	Other: REST APIs, JSON, Machine Learning basics (TensorFlow)
